@@ -204,9 +204,7 @@ Follow these steps:
     
     ```
     
-    You should see an output like this:
-    
-    ![https://adamtheautomator.com/wp-content/uploads/2020/12/image-10.png](https://adamtheautomator.com/wp-content/uploads/2020/12/image-10.png)
+   
     
 9. Add a new admin user to your RabbitMQ cluster by running:
     
@@ -530,6 +528,4 @@ Follow these steps:
     
 16. Access the management web interface at **[http://node1:15672](http://node1:15672/)** (replace **`node1`** with your master node hostname) and sign in using your username and password.
     
-    You should see a dashboard like this:
-    
-    []()
+
