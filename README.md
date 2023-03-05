@@ -3,7 +3,7 @@
   
 </p>
 <p>
-  <img src="[https://raw.githubusercontent.com/aws/aws-icons-for-architecture-diagrams/master/icons/png/AWS_Logo.png](https://www.bing.com/images/search?view=detailV2&ccid=b%2fal7C5p&id=1E020DD90ACEB159E1E711CC88AE67D35AA2CD7B&thid=OIP.b_al7C5p26tbZG4sy-CWqwHaFj&mediaurl=https%3a%2f%2ffuturumresearch.com%2fwp-content%2fuploads%2f2020%2f01%2faws-logo.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6ff6a5ec2e69dbab5b646e2ccbe096ab%3frik%3de82iWtNnrojMEQ%26pid%3dImgRaw%26r%3d0&exph=1500&expw=2000&q=AWS+Logo&simid=608037528593439290&FORM=IRPRST&ck=96EE120F95E603B6E5C7E7A9F7DF5614&selectedIndex=0)" alt="logo">
+  <img src="https://futurumresearch.com/research-notes/aws-keeps-trucking-as-amazon-crushes-expectations/aws-logo-2/" alt="logo">
 </p>
 
 <link rel="stylesheet" type="text/css" href="./style.css">
