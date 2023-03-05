@@ -1,3 +1,5 @@
+![alt text](./rabbitmq_logo_strap.png)
+
 # **How to Set Up a 3-Node Unmanaged Cluster of RabbitMQ on AWS**
 
 RabbitMQ is a popular open-source message broker that supports various protocols and platforms. It can be used to implement reliable and scalable distributed systems that communicate through messages.
