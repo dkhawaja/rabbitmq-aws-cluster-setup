@@ -1,11 +1,11 @@
 <p align="center">
-  <link rel="stylesheet" type="text/css" href="./style.css">
+  <img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="AWS Logo" width="200"/>
   <img src="./rabbitmq_logo_strap.png" alt="Logo" width="500">
   
 </p>
-<img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="AWS Logo" width="200"/>
 
-<link rel="stylesheet" type="text/css" href="./style.css">
+
+
 
 
 
