@@ -1,5 +1,4 @@
 <p align="center">
-    <img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="AWS Logo" width="200"/>
   <img src="./rabbitmq_logo_strap.png" alt="Logo" width="500">
     <img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="AWS Logo" width="200"/>
 </p>
