@@ -1,7 +1,10 @@
 <p align="center">
   <img src="./rabbitmq_logo_strap.png" alt="Logo">
+  
 </p>
-![AWS Logo](https://raw.githubusercontent.com/aws/aws-icons-for-architecture-diagrams/master/icons/png/AWS_Logo.png)
+<p>
+  <img src="https://raw.githubusercontent.com/aws/aws-icons-for-architecture-diagrams/master/icons/png/AWS_Logo.png" alt="logo">
+</p>
 
 <link rel="stylesheet" type="text/css" href="./style.css">
 
