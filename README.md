@@ -17,20 +17,6 @@ For this lab environment, we will use t2.micro instances, which are sufficient f
 
 Before starting the setup, ensure you have the following:
 
-
-    
-    # **How to Set Up a 3-Node Unmanaged Cluster of RabbitMQ on AWS**
-
-RabbitMQ is a popular open-source message broker that supports various protocols and platforms. It can be used to implement reliable and scalable distributed systems that communicate through messages.
-
-This walkthrough explains how to set up a 3-node unmanaged cluster of RabbitMQ on AWS with 1 master and 2 worker nodes. In an unmanaged cluster, nodes are manually configured and managed without using any tools or frameworks.
-
-For this lab environment, we will use t2.micro instances, which are sufficient for our purposes. However, you may choose different instance types depending on your needs and budget.
-
-## **Prerequisites**
-
-Before starting the setup, ensure you have the following:
-
 - An AWS account with access to EC2 service
 - A key pair for SSH access to the instances
 - A security group that allows inbound traffic on all ports (for simplicity)
