@@ -218,9 +218,7 @@ Follow these steps:
     
     ```
     
-    You should see an output like this:
     
-    ![https://adamtheautomator.com/wp-content/uploads/2020/12/image-10.png](https://adamtheautomator.com/wp-content/uploads/2020/12/image-10.png)
     
 9. Add a new admin user to your RabbitMQ cluster by running:
     
