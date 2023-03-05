@@ -1,4 +1,5 @@
 <p align="center">
+  <link rel="stylesheet" type="text/css" href="./style.css">
   <img src="./rabbitmq_logo_strap.png" alt="Logo" width="500">
   
 </p>
