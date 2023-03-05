@@ -2,12 +2,7 @@
   <img src="./rabbitmq_logo_strap.png" alt="Logo">
   
 </p>
-<img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="AWS Logo" width="200"/>
-
-<p align="right">
-  <img src="https://miro.medium.com/max/1842/0*P0MPkRbqZLPbogom" alt="Logo">
-  
-</p>
+<img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="AWS Logo" width="500"/>
 
 <link rel="stylesheet" type="text/css" href="./style.css">
 
