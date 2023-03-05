@@ -2,7 +2,7 @@
   <img src="./rabbitmq_logo_strap.png" alt="Logo">
   
 </p>
-![AWS Logo](https://futurumresearch.com/research-notes/aws-keeps-trucking-as-amazon-crushes-expectations/aws-logo-2/)
+![AWS Logo](https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png)
 
 <link rel="stylesheet" type="text/css" href="./style.css">
 
