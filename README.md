@@ -1,4 +1,4 @@
-![alt text](./rabbitmq_logo_strap.png)
+                                                    ![alt text](./rabbitmq_logo_strap.png)
 
 # **How to Set Up a 3-Node Unmanaged Cluster of RabbitMQ on AWS**
 
