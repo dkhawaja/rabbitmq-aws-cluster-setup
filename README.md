@@ -2,9 +2,7 @@
   <img src="./rabbitmq_logo_strap.png" alt="Logo">
   
 </p>
-<p>
-  <img src="https://futurumresearch.com/research-notes/aws-keeps-trucking-as-amazon-crushes-expectations/aws-logo-2/" alt="logo">
-</p>
+![AWS Logo](https://futurumresearch.com/research-notes/aws-keeps-trucking-as-amazon-crushes-expectations/aws-logo-2/)
 
 <link rel="stylesheet" type="text/css" href="./style.css">
 
