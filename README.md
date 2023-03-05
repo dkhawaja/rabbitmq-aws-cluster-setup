@@ -2,7 +2,8 @@
   <img src="./rabbitmq_logo_strap.png" alt="Logo">
   
 </p>
-![AWS Logo](https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png)
+<img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="AWS Logo" width="200"/>
+
 
 <link rel="stylesheet" type="text/css" href="./style.css">
 
